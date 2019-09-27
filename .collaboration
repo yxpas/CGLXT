@@ -134,6 +134,15 @@
   },
   {
     "ModuleName": "详情页面",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-K0SPFCU\\87196",
+      "Email": "871965074@qq.com"
+    },
+    "LockDateTime": "2019-09-27T16:12:21.0974012+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\详情页面.json"
+    ]
   }
 ]
