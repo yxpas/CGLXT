@@ -131,15 +131,5 @@
   {
     "ModuleName": "页面2",
     "ModuleType": 1
-  },
-  {
-    "ModuleName": "页面3",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "DESKTOP-RK4FQKH\\X",
-      "Email": "549317836@qq.com"
-    },
-    "LockDateTime": "2019-09-27T15:58:26.1630134+08:00",
-    "ModuleType": 1
   }
 ]
