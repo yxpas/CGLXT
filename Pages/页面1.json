@@ -5,6 +5,9 @@
   "Cols": {
     "Count": 60
   },
+  "Values": {
+    "1,1": "页面1"
+  },
   "StyleDatas": {
     "Styles": [
       {
@@ -202,6 +205,9 @@
       "FontFamily": 1
     }
   },
+  "Spans": [
+    "1,1,3,6"
+  ],
   "PageInfo": {
     "$type": "Forguncy.Model.Pages.NormalPage, Forguncy",
     "AuthorizeInfo": {
